@@ -1,0 +1,42 @@
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.vbprojAssemblyReference.cache
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form4.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form1.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form2.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form3.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Resources.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.vbproj.GenerateResource.cache
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.vbproj.CoreCompileInputs.cache
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.exe.config
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.exe
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.pdb
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.xml
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.exe
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.xml
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.pdb
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.vbprojAssemblyReference.cache
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Active_orders.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Fulfilled_orders.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form4.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form1.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form2.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Form3.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Resources.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.vbproj.GenerateResource.cache
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.vbproj.CoreCompileInputs.cache
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.exe
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.xml
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food ordering app Prototype1.pdb
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.exe.config
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.exe
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.pdb
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\bin\Debug\food ordering app Prototype1.xml
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Active_orders.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Fulfilled_orders.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Basket.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.JimKebabs.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Basket.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.JimKebabs.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Pizza.resources
+D:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Pizza.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.Cart.resources
+F:\CS\z.TERMINAL PROJECT\food ordering app Prototype1\food ordering app Prototype1\obj\Debug\food_ordering_app_Prototype1.CheckoutPage.resources
